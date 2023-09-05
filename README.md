@@ -5,4 +5,4 @@
 MVC 패턴을 활용하여 개발한 bridge game
 
 ## 프로그램 사진
-![ex](https://github.com/nstar1125/bridge_gaㅡㅊme/assets/39685824/2e17f1f1-10d7-40cc-aef5-0cc1ae4ec29a)
+![ex](https://github.com/nstar1125/bridge_game/assets/39685824/93e7730c-43a7-475e-bf9c-ed6271a2e294)
